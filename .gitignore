@@ -1,3 +1,7 @@
+# private files
+*.private
+*.privat
+
 # Compiled Object files
 *.slo
 *.lo
